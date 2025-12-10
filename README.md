@@ -9,7 +9,9 @@
 ## 📱 Ekran Görüntüleri (Screenshots)
 
 <p align="center">
-  <img src="app/src/main/res/drawable/doropomo_ust_baslik.png" width="300" alt="Doropomo Logo">
+  <img width="399" height="885" alt="image" src="https://github.com/user-attachments/assets/96211141-385f-4750-9021-63fa1e661dc3" />
+  <img width="399" height="886" alt="image" src="https://github.com/user-attachments/assets/8912b945-5410-49d3-a88f-da12e631fc60" />
+  <img width="398" height="885" alt="image" src="https://github.com/user-attachments/assets/495070f7-c07d-4f0d-b5b4-32fb7bd3a8cf" />
   </p>
 
 ---
@@ -78,12 +80,4 @@ Pull Request oluşturun.
 
 **Bu proje MIT Lisansı altında lisanslanmıştır.**
 
-### Nasıl Kullanacaksın?
-```text
-1.  Bu kodu kopyala.
-2.  Proje klasöründeki `README.md` dosyasını aç ve içindekileri silip bunu yapıştır.
-3.  **Önemli:** Eğer görselde özel bir şema veya farklı bir yerleşim varsa (örneğin "Tech Stack" en üstteyse), bana söylersen yerlerini değiştirebilirim.
-4.  `Screenshots` kısmına, uygulamanın çalışır haldeki ekran görüntülerini eklersen çok daha profesyonel görünür.
 
-Başka bir ekleme (örneğin "Geliştirici Hakkında" kısmı) ister misin?
-```
